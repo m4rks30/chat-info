@@ -1,6 +1,10 @@
 # chat-info
 A simple chat script
 
+```
+fuck you editor 
+```
+
 ## javascript
 ```javascript
         import React, { useState } from 'react';
